@@ -6,7 +6,7 @@ public class parent {
 	
 	public void method() throws IOException{
 		// 호출한 곳으로 IOException을 던짐
-		// == 해당 메서드는
+		// == 해당 메소드는
 		// IOException을 발생 시킬 가능성이 있으므로
 		// 호출하는 곳에서 예외처리를 해야한다.
 		
